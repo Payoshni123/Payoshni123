@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Payoshni Khekale  
 
-<!--
-**Payoshni123/Payoshni123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Engineer** | Cloud & DataOps Enthusiast  
+💡 Passionate about building end-to-end **data pipelines** and analytics solutions  
+🌐 Currently working on a **Flipkart Price Intelligence Capstone Project**  
+⚙️ Learning **Kafka, Airflow, Docker, and Snowflake**  
+📚 Exploring Data Science & Software Development fundamentals  
 
-Here are some ideas to get you started:
+---
+🛠️ **Tech Stack**  
+Python | SQL | Scrapy | Kafka | PostgreSQL | Docker | Power BI | NumPy | Pandas | Spark | dbt  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Connect with me**  
+[LinkedIn](https://www.linkedin.com/in/payoshni-khekale-174633225/) | [GitHub](https://github.com/Payoshni123)
